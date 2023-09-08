@@ -1,0 +1,20 @@
+.container{
+    margin-bottom: 50px;
+}
+.background-slideshow{
+    background-color: skyblue;
+    border-radius: 50px;
+}
+
+.carousel-item{
+    padding: 40px 100px;
+}
+
+.buyNow{
+    background-color: lightgreen;
+    border: none;
+    border-radius: 20px;
+    margin-top: 20px;
+    padding: 5px;
+    cursor: pointer;
+}
