@@ -1,6 +1,7 @@
 .container{
     margin-bottom: 50px;
 }
+
 .background-slideshow{
     background-color: skyblue;
     border-radius: 50px;
@@ -17,4 +18,33 @@
     margin-top: 20px;
     padding: 5px;
     cursor: pointer;
+}
+
+.cat1{
+    background-color: aqua;
+}
+
+.cat2{
+    background-color: red;
+}
+
+.cat3{
+    background-color: chocolate;
+}
+
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 50px;
+}
+
+.catagories h1{
+    color: white;
+}
+
+.catagories img{
+    width: 100px;
+}
+
+.col-md-4{
+    padding-top: 10px;
 }
